@@ -8,6 +8,6 @@ authors = ["yibei333 <yibei333@hotmail.com>"]
 description = "test lib"
 repository = "https://github.com/yibei333/sharp-dev-lib"
 keywords = ["test"]
-categories = ["test"]
+categories = ["lib"]
 
 [dependencies]
