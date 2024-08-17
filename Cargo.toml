@@ -1,0 +1,13 @@
+[package]
+name = "yb_testlib"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+authors = ["yibei333 <yibei333@hotmail.com>"]
+description = "test lib"
+repository = "https://github.com/yibei333/sharp-dev-lib"
+keywords = ["test"]
+categories = ["test"]
+
+[dependencies]
